@@ -1,0 +1,19 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sim_1/new/top_tb.v,1719491198,verilog,,,,top_tb,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/ALU.v,1719428616,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/ALU_decoder.v,,ALU,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/ALU_decoder.v,1719499090,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Data_Memory.v,,ALU_decoder,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Data_Memory.v,1719492454,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Instruction_memory.v,,Data_Memory,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Instruction_memory.v,1719499746,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Main_Decoder.v,,Instruction_memory,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Main_Decoder.v,1719499589,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Main_control_unit.v,,Main_Decoder,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Main_control_unit.v,1719499196,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Program_Counter.v,,Main_control_unit,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Program_Counter.v,1719428138,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Program_counter_adder.v,,Program_Counter,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Program_counter_adder.v,1716978050,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Register_file.v,,Program_counter_adder,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Register_file.v,1719497640,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Single_Cycle_Core_Top.v,,Register_file,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Single_Cycle_Core_Top.v,1719498862,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/mux1.v,,Single_Cycle_Core_Top,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/Top_Module.v,1717026363,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/mux1.v,,Top_Module,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/mux1.v,1717024810,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/sign_extend.v,,mux1,,,,,,,,
+C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sources_1/new/sign_extend.v,1719495327,verilog,,C:/Users/niran/OneDrive/Desktop/CPU/project_1/project_1.srcs/sim_1/new/top_tb.v,,sign_extend,,,,,,,,
